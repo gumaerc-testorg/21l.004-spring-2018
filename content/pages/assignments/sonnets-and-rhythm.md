@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
 title: Sonnets and Rhythm
 uid: a17e8418-5cdd-3093-ff8b-23adcf67ff72

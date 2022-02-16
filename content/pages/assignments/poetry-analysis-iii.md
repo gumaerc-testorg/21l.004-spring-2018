@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
 title: Poetry Analysis III
 uid: d9251c7b-e2ac-ff1b-5025-0c03d45b0c56
