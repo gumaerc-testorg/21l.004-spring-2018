@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains instructions for the three informal essays that are
+  due throughout the term.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Informal Essays
 uid: c24f2ade-38b3-66cf-be77-874a69570469
 ---
 
-There are three informal essays due throughout the term. They should be 3 pages. See the [calendar]({{< baseurl >}}/pages/calendar) for details on dates.
+There are three informal essays due throughout the term. They should be 3 pages. See the {{% resource_link 8a8a4503-b6f2-a9fe-7425-59e8ce875be2 "calendar" %}} for details on dates.
 
 Here's what I'm looking for in the short paper. In these first few weeks of the class, we're focusing on various objective features of poems:
 

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment about assigning color to poems based on end rhyme schemes.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

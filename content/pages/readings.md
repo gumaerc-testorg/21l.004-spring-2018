@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: A list of poem and excerpt readings for the course organized by session
+  and topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -361,7 +363,7 @@ Pardlo, Gregory. "[For Which It Stands](https://www.poetryfoundation.org/poems/5
 Guest Lecture: [Charles Shadle, MIT Lecturer](https://mta.mit.edu/person/charles-shadle)
 {{< tdclose >}}
 {{< tdopen >}}
-Shadle, Charles. "[Six Dickinson Songs (PDF - 2.3MB)]({{< baseurl >}}/resources/mit21l_004s18shadle)." Courtesy of Charles Shadle. Used with permission.
+Shadle, Charles. "{{% resource_link 83dd7d31-ac7f-ae7b-cf94-d2dcbb9a7d11 "Six Dickinson Songs (PDF - 2.3MB)" %}}." Courtesy of Charles Shadle. Used with permission.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +421,7 @@ Student-initiated readings
 Early English Ballads
 {{< tdclose >}}
 {{< tdopen >}}
-[Shakespeare and Donne](https://prezi.com/view/SW81fKluW9nTVXlzQydt/), [Early English Ballads Presentation (PDF)]({{< baseurl >}}/resources/mit21l_004s18_ballads) 
+[Shakespeare and Donne](https://prezi.com/view/SW81fKluW9nTVXlzQydt/), {{% resource_link 6b21b7b2-0058-8f88-1268-9e4c5a4d76dc "Early English Ballads Presentation (PDF)" %}} 
 {{< tdclose >}}
 
 {{< trclose >}}

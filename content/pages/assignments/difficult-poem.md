@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This is the reading and group assignment on reading a difficult poem.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

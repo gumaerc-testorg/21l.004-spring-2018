@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This is the instructions and resources for the analytic essay.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

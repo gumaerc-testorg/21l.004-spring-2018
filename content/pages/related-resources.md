@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page links to poetry texts, references, tools, and single-author
+  resources available online.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

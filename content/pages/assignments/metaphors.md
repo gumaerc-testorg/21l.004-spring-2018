@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings and reading exercises for session thirteen on how metaphors
+  work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

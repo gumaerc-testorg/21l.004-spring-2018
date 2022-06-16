@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings and reading exercises for session six on the shape of sentences
+  and the shape of information.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

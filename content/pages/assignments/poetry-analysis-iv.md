@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The readings and analysis questions for session fourteen.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

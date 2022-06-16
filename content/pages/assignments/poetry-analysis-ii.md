@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings and analysis questions for session eight on forms of poetry
+  and includes vocabulary.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
