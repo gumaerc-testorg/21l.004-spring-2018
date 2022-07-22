@@ -5,6 +5,7 @@ file: /courses/21l-004-reading-poetry-spring-2018/d981a9aa122e4c26f7d48449d1433d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
