@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: The readings and reading questions for session two on making poetry in
+  English.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
 title: Prose to Poetry
 uid: 361dc956-d656-474e-311b-b20da638c076

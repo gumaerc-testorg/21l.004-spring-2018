@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This is the reading and group assignment on reading a difficult poem.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
 title: Difficult Poem
 uid: c230b868-54fe-7879-9139-d6b0a3bd8ea8

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: Further readings and reading questions for session four on etymologies
+  and rhythms.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
 title: Etymologies and Rhythms
 uid: 38928765-d597-4872-a407-7c5c187768e8
@@ -19,4 +25,4 @@ Reading Exercises
     1.  [Beowulf opening lines in Old English](https://www.youtube.com/watch?v=sDXmxLDbp7c ) | [Beowulf text](https://www.poetryfoundation.org/poems/43521/beowulf-old-english-version)
     2.  [Seamus Heaney's Beowulf text](https://www.scuc.txed.net/site/handlers/filedownload.ashx?moduleinstanceid=60219&dataid=104195&FileName=Seamus%20Heaney%20Beowulf%20full%20text.pdf) | [Seamus Heaney reading Beowulf](https://www.youtube.com/watch?v=AaB0trCztM0&t) | [Intro to Beowulf](https://www.wwnorton.com/college/english/nael/beowulf/introbeowulf.htm) (read part 2)
     3.  [Chaucer's Prologue to the Canterbury Tales read aloud](http://www.luminarium.org/medlit/gpto42.mp3) | [General Prologue to the Canterbury Tales, Lines 1-18](https://rpo.library.utoronto.ca/poems/canterbury-tales-general-prologue#1) 
-3.  To build on our conversation about meter, you have "meter exercises" that will ask you to make two lists and write two sentences in different metrical patterns with the components suggested. [Meter Exercises (PDF)]({{< baseurl >}}/resources/mit21l_004s18meter)
+3.  To build on our conversation about meter, you have "meter exercises" that will ask you to make two lists and write two sentences in different metrical patterns with the components suggested. {{% resource_link ef737676-0616-d272-52e9-51173971792b "Meter Exercises (PDF)" %}}

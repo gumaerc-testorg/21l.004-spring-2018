@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This contains writing and reading assignments for the course. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
 ---
@@ -16,7 +20,7 @@ Session 2: Making Poetry in English
 
 Print out the readings, mark them up, and bring with you to class next week. The assignment below gives questions to think about as you read the poems.
 
-_Assignment:_ [Prose to Poetry]({{< baseurl >}}/pages/assignments/prose-to-poetry)
+_Assignment:_ {{% resource_link 361dc956-d656-474e-311b-b20da638c076 "Prose to Poetry" %}}
 
 Session 3: From Evidence to Analysis
 ------------------------------------
@@ -26,16 +30,16 @@ Session 3: From Evidence to Analysis
 
 Read the sonnet (multiple times) and Vendler's analysis. Come with questions.
 
-_Assignment_: [Informal Essay I]({{< baseurl >}}/pages/assignments/informal-essays)
+_Assignment_: {{% resource_link c24f2ade-38b3-66cf-be77-874a69570469 "Informal Essay I" %}}
 
 Session 4: Etymologies and Rhythms
 ----------------------------------
 
 Make a copy of the readings, mark them up, and bring with you to class next week. In the process, please glance at the poets' bios and make a note of where and when they lived and any key facts—just the basics!
 
-_Assignment:_ [Poetry Analysis I]({{< baseurl >}}/pages/assignments/poetry-analysis-i)
+_Assignment:_ {{% resource_link 4168199b-a2a7-02ba-ee79-cc64138ded5b "Poetry Analysis I" %}}
 
-_Assignment:_ [Etymologies and Rhythms]({{< baseurl >}}/pages/assignments/etymologies-and-rhythms)
+_Assignment:_ {{% resource_link 38928765-d597-4872-a407-7c5c187768e8 "Etymologies and Rhythms" %}}
 
 Session 5: Language as System(s)
 --------------------------------
@@ -56,11 +60,11 @@ Come up with questions to ask Miyagawa in class about:
 Session 6: The Shape of Sentences and the Shape of Information
 --------------------------------------------------------------
 
-We're going from words to sentences and looking at some more cool poems. Take a look at the [class notes for session 6 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit21l_004_class6).
+We're going from words to sentences and looking at some more cool poems. Take a look at the {{% resource_link 711599f8-b0c1-7927-d73c-c34841ea8253 "class notes for session 6 (PDF - 1.2MB)" %}}.
 
-_Assignment:_ [The Shape of Sentences]({{< baseurl >}}/pages/assignments/the-shape-of-sentences)
+_Assignment:_ {{% resource_link aa47f56f-415e-43a5-2483-7f564e2502dd "The Shape of Sentences" %}}
 
-_Assignment_: [Informal Essay II]({{< baseurl >}}/pages/assignments/informal-essays) 
+_Assignment_: {{% resource_link c24f2ade-38b3-66cf-be77-874a69570469 "Informal Essay II" %}} 
 
 Session 7: Reading Line Breaks
 ------------------------------
@@ -86,11 +90,11 @@ Session 8: Fixed Forms, Rhymed and Otherwise
 
 This week's poems are _fixed forms_: forms with tight constraints on variables like number of lines, meter, line-length, rhyme, or line ending words. First, sonnets: by three sixteenth century authors participating in the vogue of writing long sequences of sonnets devoted to (mostly) unrequited love, and then by four twentieth century authors who use the form to different ends. Second, villanelles: another poem by Bishop, and one by Martha Collins (a wonderful poet who lives hear Harvard Square). Finally, a poem that invents a new form, initially as a tribute to Brooks and now used by other writers. Hayes has a weekly column in the NYT Magazine featuring a poem by someone else that he likes with a few sentences about why; if this tickles your fancy, check it out.
 
-_Assignment:_ [Poetry Analysis II]({{< baseurl >}}/pages/assignments/poetry-analysis-ii)
+_Assignment:_ {{% resource_link c1dcf6e7-5c32-e317-a1d2-91c44e833504 "Poetry Analysis II" %}}
 
-_Assignment:_ [Sonnets and Rhythm]({{< baseurl >}}/pages/assignments/sonnets-and-rhythm)
+_Assignment:_ {{% resource_link a17e8418-5cdd-3093-ff8b-23adcf67ff72 "Sonnets and Rhythm" %}}
 
-_Assignment_: [Informal Essay III]({{< baseurl >}}/pages/assignments/informal-essays)
+_Assignment_: {{% resource_link c24f2ade-38b3-66cf-be77-874a69570469 "Informal Essay III" %}}
 
 Session 9: New Work in Computer-Generated Poetry
 ------------------------------------------------
@@ -108,20 +112,20 @@ If people want to read it all, of course, or read a few sections, that's great.
 Session 10: Sound Patterns and Sense
 ------------------------------------
 
-Take a look at the [class notes for session 10 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit21l_004s18_class10).
+Take a look at the {{% resource_link d981a9aa-122e-4c26-f7d4-8449d1433d35 "class notes for session 10 (PDF - 1.3MB)" %}}.
 
 You know most of the drill (poems, poets, annotate). In a previous session, we looked at poems characterized by end-rhymes organized in predictable patterns. Today, we're going to broaden the optic on repeated sounds. I would like you to look hard at either assonance and consonance (repeated vowel or consonant sounds) in the sonnet, or track the pattern of rhyming sounds especially but not exclusively at the end of lines in Herbert. It might be useful to know that Herbert was a clergyman (that is, he would have worn a collar, which becomes a sign of both the religious vocation and its demands for certain kinds of personal sacrifices). "Collar" is also a homonym of (sounds identical to) "choler," an older word for "anger," and this other word invoked by sound is also relevant.
 
 Andrew Marvell was a contemporary of Milton's; this short poem is among a number by this poet written in the persona of a mower (that is, a laborer who cut grass)—for reasons again having to do with poetic traditions of writing in the voice of "simple people" who worked with the natural world. Sylvia Plath is the only 20th poet in the reading. Coincidentally, the New York Times published an obituary for her today, part of a project to redress important and systemic omissions in their record. The bio on Poetry Foundation is probably more relevant for us, but here is the [extended NYT piece](https://nyti.ms/2G6cPnh) if it interests you. 
 
-_Assignment:_ [Poetry Analysis III]({{< baseurl >}}/pages/assignments/poetry-analysis-iii)
+_Assignment:_ {{% resource_link d9251c7b-e2ac-ff1b-5025-0c03d45b0c56 "Poetry Analysis III" %}}
 
 Session 11: Reading a Difficult Poem (1)
 ----------------------------------------
 
-_Assignment:_ [Difficult Poem (Group Project and Presentation)]({{< baseurl >}}/pages/assignments/difficult-poem)
+_Assignment:_ {{% resource_link c230b868-54fe-7879-9139-d6b0a3bd8ea8 "Difficult Poem (Group Project and Presentation)" %}}
 
-_Assignment_: [Essay Revision]({{< baseurl >}}/pages/assignments/essay-revision)
+_Assignment_: {{% resource_link 4af53977-4ad1-a6a4-e3d6-dbf7152722d3 "Essay Revision" %}}
 
 Session 12: Reading a Difficult Poem (2)
 ----------------------------------------
@@ -139,13 +143,13 @@ Some takeaways from our discussion of "The Waste Land," parts 1-3:
 3.  This world is devoid of new meanings, and relies on scavenging scraps from the past. Conventional poetic forms highlight how much the present has declined from the past. Every rule violation is possible, but none are shocking—all is desensitized. Human behavior becomes mechanical while machines take on a threatening agency; language decays almost to the point of meaninglessness. Can the scavenged scraps be used to form a picture? Is there the possibility of a new design?
     
 
-_Assignment_: [Difficult Poem (Report on "The Waste Land")]({{< baseurl >}}/pages/assignments/difficult-poem)
+_Assignment_: {{% resource_link c230b868-54fe-7879-9139-d6b0a3bd8ea8 "Difficult Poem (Report on \"The Waste Land\")" %}}
 
 Session 13: How Do Metaphors Work?
 
 We'll be exploring the territory opened up by (for instance) the "if there were water" passage in Eliot's "The Waste Land": imaginative, counterfactual, and figurative language, aka, everything that is not being directly observed or declared to be so, aka, what's in the poem that would not be in a photograph.
 
-_Assignment_: [Metaphors]({{< baseurl >}}/pages/assignments/metaphors)
+_Assignment_: {{% resource_link 8ec86e4b-babe-566b-dd6e-5cb3ec53c7fd "Metaphors" %}}
 
 Session 14: Guest Lecture: Tyehimba Jess
 ----------------------------------------
@@ -162,12 +166,12 @@ You'll see poems in two voices, poems connected to each other by first and last 
 Session 15: How Does Allusion Work? (History)
 ---------------------------------------------
 
-_Assignment:_ [Poetry Analysis IV]({{< baseurl >}}/pages/assignments/poetry-analysis-iv)
+_Assignment:_ {{% resource_link 81d3d030-9be6-c7f8-1d33-0cf3bef2ab2f "Poetry Analysis IV" %}}
 
 Session 16: Guest Lecture: Charles Shadle
 -----------------------------------------
 
-*   Shadle, Charles. "[Six Dickinson Songs (PDF - 2.3MB)]({{< baseurl >}}/resources/mit21l_004s18shadle)." Courtesy of Charles Shadle. Used with permission.
+*   Shadle, Charles. "{{% resource_link 83dd7d31-ac7f-ae7b-cf94-d2dcbb9a7d11 "Six Dickinson Songs (PDF - 2.3MB)" %}}." Courtesy of Charles Shadle. Used with permission.
 
 Charles Shadle is a prolific and talented American composer who teaches advanced music theory and composition at MIT; he'll be talking about six short poems by the 19th c. poet Emily Dickinson—a contemporary of Walt Whitman's (and of the Civil War)—which he scored for soprano and clarinet. Interpretation of poetry takes many forms, and this is one of them—which will focus us quite a bit on sound and on hearing/voicing as interpretation, as well as on ideas about choice of texts and how the composer (and performers) understand them.
 
@@ -185,9 +189,9 @@ Session 18: Guest Lecture: Martha Collins, Translating Poetry
 
 *   Collins, Marth and Kevin Prufer, eds. Into English: Poems, Translations, Commentaries. Graywolf Press, 2017. pp. 71–75, 163–167. ISBN: 9781555877824. 
 
-_Assignment:_ [Analytic Essay]({{< baseurl >}}/pages/assignments/analytic-essay)
+_Assignment:_ {{% resource_link a26b016a-7ba5-398d-0261-ad4d64125f93 "Analytic Essay" %}}
 
 Sessions 19–23: Student Presentations 
 --------------------------------------
 
-_Assignment_: [Final Presentation Report]({{< baseurl >}}/pages/assignments/final-presentation-report)
+_Assignment_: {{% resource_link 6b5740ce-092a-fb55-41c0-3e15001ca3bf "Final Presentation Report" %}}

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: A calendar of sessions listing the topic and key dates for papers and
+  presentations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8a8a4503-b6f2-a9fe-7425-59e8ce875be2
 ---
