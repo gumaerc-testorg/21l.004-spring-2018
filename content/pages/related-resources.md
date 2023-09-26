@@ -2,14 +2,13 @@
 content_type: page
 description: This page links to poetry texts, references, tools, and single-author
   resources available online.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 36dbae1f-22c4-0737-4534-30b5f4ac1058
 ---
-
-Poetry Texts
-------------
+## Poetry Texts
 
 [Representative Poetry Online](https://rpo.library.utoronto.ca/). A useful online anthology from the University of Toronto.
 
@@ -19,10 +18,9 @@ Poetry Texts
 
 [PennSound](http://writing.upenn.edu/pennsound/x/authors.php). Audio of many contemporary and some 20th c poets reading.
 
-[John Milton Reading Room](https://www.dartmouth.edu/~milton/reading_room/contents/text.shtml). Annotated text of "Paradise Lost" and related resources.
+[John Milton Reading Room](https://milton.host.dartmouth.edu/reading_room/contents/text.shtml). Annotated text of "Paradise Lost" and related resources.
 
-Reference Shelf
----------------
+## Reference Shelf
 
 [Purdue Online Writing Lab](https://owl.english.purdue.edu/owl/resource/570/03/). Good information on poetic feet and meter.
 
@@ -32,15 +30,13 @@ Reference Shelf
 
 [BibleGateway](https://www.biblegateway.com/). Searchable texts of the Bible in various translations.
 
-Online Tools
-------------
+## Online Tools
 
 [Voicethread](https://voicethread.com/). Text/audio/video commenting and content.
 
 [Genius](https://genius.com/tags/poetry). A tool for collaborative annotation.
 
-Single Author Resources
------------------------
+## Single Author Resources
 
 [Emily Dickinson Electronic Archives](http://www.emilydickinson.org/).
 
@@ -48,4 +44,4 @@ Single Author Resources
 
 [T.S. Eliot](http://www.english.illinois.edu/maps/poets/a_f/eliot/eliot.htm).  A useful site with biographical and critical material on Eliot.
 
-[John Milton Reading Room](https://www.dartmouth.edu/~milton/reading_room/contents/text.shtml). Annotated text of "Paradise Lost" and related resources.
+[John Milton Reading Room](https://milton.host.dartmouth.edu/reading_room/contents/text.shtml). Annotated text of "Paradise Lost" and related resources.
