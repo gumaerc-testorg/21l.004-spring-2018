@@ -2,6 +2,7 @@
 content_type: page
 description: The readings and reading exercises for session six on the shape of sentences
   and the shape of information.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,22 +12,19 @@ parent_uid: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
 title: The Shape of Sentences
 uid: aa47f56f-415e-43a5-2483-7f564e2502dd
 ---
+## Readings:
 
-Readings:
----------
+Milton, John. "[When I consider how my light is spent (Sonnet 19)](https://milton.host.dartmouth.edu/reading_room/sonnets/sonnet_19/text.shtml)." John Milton Reading Room.
 
-Milton, John. "[When I consider how my light is spent (Sonnet 19)](https://www.dartmouth.edu/~milton/reading_room/sonnets/sonnet_19/text.shtml)." John Milton Reading Room.
+Dunbar, Paul. "[The Debt](https://www.poetryfoundation.org/poems/44194/the-debt-56d22331136b0)." In *The Complete Poems of Paul Laurence Dunbar*. CreateSpace, 2017. ISBN: 9781475157574. 
 
-Dunbar, Paul. "[The Debt](https://www.poetryfoundation.org/poems/44194/the-debt-56d22331136b0)." In _The Complete Poems of Paul Laurence Dunbar_. CreateSpace, 2017. ISBN: 9781475157574. 
+Frost, Robert. "[Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)." In *The Poetry of Robert Frost*. Edited by Edward Lathem. Henry Hold & Company, 1969. ISBN: 9780805005028.
 
-Frost, Robert. "[Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)." In _The Poetry of Robert Frost_. Edited by Edward Lathem. Henry Hold & Company, 1969. ISBN: 9780805005028.
+Gay, Ross. "[Catalog of Unabashed Gratitude](https://www.poetryfoundation.org/poems/58762/catalog-of-unabashed-gratitude)." In *Catalog of Unabashed Gratitude*. University of Pittsburgh Press, 2015. ISBN: 9780822963318.
 
-Gay, Ross. "[Catalog of Unabashed Gratitude](https://www.poetryfoundation.org/poems/58762/catalog-of-unabashed-gratitude)." In _Catalog of Unabashed Gratitude_. University of Pittspurgh Press, 2015. ISBN: 9780822963318.
+Kirsch, Adam. "[Professional Middle-Class Couple, 1927](https://www.poetryfoundation.org/poetrymagazine/poems/56163/professional-middle-class-couple-1927)." *Poetry*. April, 2003.
 
-Kirsch, Adam. "[Professional Middle-Class Couple, 1927](https://www.poetryfoundation.org/poetrymagazine/poems/56163/professional-middle-class-couple-1927)." _Poetry_. April, 2003.
-
-Reading Exercises:
-------------------
+## Reading Exercises:
 
 After picking out these readings, I realized that all of them (except for the Frost poem) all revolve around ideas of economy: what you owe others, what you are entitled to, what you can or can’t give back. (Not unrelated to "Death of the Hired Man," actually).
 
