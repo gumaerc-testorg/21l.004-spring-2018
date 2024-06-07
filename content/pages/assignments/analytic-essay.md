@@ -43,8 +43,8 @@ For essays about the poems in A, I’d like you to incorporate something that th
 ### Pardlo
 
 - "[The Language is Constructing our Ideas More Than We are Deploying the Language](http://gulfcoastmag.org/reviews-and-interviews/art-and-reviews/an-interview-with-gregory-pardlo/)", an interview with Gregory Pardlo in which he talks about improvisation vs. form, April, 2017.
-- [Interview with Gregory Pardlo, July 10, 2015](https://www.theblueshiftjournal.com/single-post/2015/07/10/Interview-with-Gregory-Pardlo); Pardlo talks about the role of conventions and talks about the idea of the "difficult" poem.
-- More interviews on [Pardlo's website](http://pardlo.net/interviews).
+- Interview with Gregory Pardlo, July 10, 2015; Pardlo talks about the role of conventions and talks about the idea of the "difficult" poem.
+- More interviews on [Pardlo's website](https://www.pardlo.com/interviews).
 
 ### Cohen
 
