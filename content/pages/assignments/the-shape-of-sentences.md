@@ -14,15 +14,15 @@ uid: aa47f56f-415e-43a5-2483-7f564e2502dd
 ---
 ## Readings:
 
-Milton, John. "[When I consider how my light is spent (Sonnet 19)](https://milton.host.dartmouth.edu/reading_room/sonnets/sonnet_19/text.shtml)." John Milton Reading Room.
+Milton, John. "{{% resource_link "d2bc79da-19d8-4c41-b521-98993e3d3f97" "When I consider how my light is spent (Sonnet 19)" %}}." John Milton Reading Room.
 
-Dunbar, Paul. "[The Debt](https://www.poetryfoundation.org/poems/44194/the-debt-56d22331136b0)." In *The Complete Poems of Paul Laurence Dunbar*. CreateSpace, 2017. ISBN: 9781475157574. 
+Dunbar, Paul. "{{% resource_link "6807949d-9247-4a76-a27c-26ab46fd623d" "The Debt" %}}." In *The Complete Poems of Paul Laurence Dunbar*. CreateSpace, 2017. ISBN: 9781475157574. 
 
-Frost, Robert. "[Acquainted with the Night](https://www.poetryfoundation.org/poems/47548/acquainted-with-the-night)." In *The Poetry of Robert Frost*. Edited by Edward Lathem. Henry Hold & Company, 1969. ISBN: 9780805005028.
+Frost, Robert. "{{% resource_link "15762fe2-17d5-44e3-9630-3e3005b0681b" "Acquainted with the Night" %}}." In *The Poetry of Robert Frost*. Edited by Edward Lathem. Henry Hold & Company, 1969. ISBN: 9780805005028.
 
-Gay, Ross. "[Catalog of Unabashed Gratitude](https://www.poetryfoundation.org/poems/58762/catalog-of-unabashed-gratitude)." In *Catalog of Unabashed Gratitude*. University of Pittsburgh Press, 2015. ISBN: 9780822963318.
+Gay, Ross. "{{% resource_link "17f34cd4-79eb-4852-a87f-7f0175a1b751" "Catalog of Unabashed Gratitude" %}}." In *Catalog of Unabashed Gratitude*. University of Pittsburgh Press, 2015. ISBN: 9780822963318.
 
-Kirsch, Adam. "[Professional Middle-Class Couple, 1927](https://www.poetryfoundation.org/poetrymagazine/poems/56163/professional-middle-class-couple-1927)." *Poetry*. April, 2003.
+Kirsch, Adam. "{{% resource_link "ba138d98-25af-4af7-94a4-4b63e665afc6" "Professional Middle-Class Couple, 1927" %}}." *Poetry*. April, 2003.
 
 ## Reading Exercises:
 

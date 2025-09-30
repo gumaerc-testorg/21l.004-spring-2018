@@ -11,7 +11,7 @@ uid: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
 Session 1: Recognizing Patterns
 -------------------------------
 
-*   Pound, Ezra. "[In a Station of the Metro](https://www.poetryfoundation.org/poetrymagazine/poems/12675/in-a-station-of-the-metro)." In _Personae_. New Directions, 1990. ISBN: 9780811211383.
+*   Pound, Ezra. "{{% resource_link "e267b744-ea2f-4c0f-b60c-2bdf789fc508" "In a Station of the Metro" %}}." In _Personae_. New Directions, 1990. ISBN: 9780811211383.
 
 Write up a roughly 300 word introduction of yourself especially as in terms of your relationship with poetry. What is your background: prior knowledge, authors or works you like, don't like or are curious about, good and bad experiences, things you'd like to learn or talk about in the class, things you know from other disciplines (linguistics!) that might be useful.
 
@@ -25,8 +25,8 @@ _Assignment:_ {{% resource_link 361dc956-d656-474e-311b-b20da638c076 "Prose to P
 Session 3: From Evidence to Analysis
 ------------------------------------
 
-*   William Shakespeare, "[Sonnet 116](https://www.poetryfoundation.org/poems/45106/sonnet-116-let-me-not-to-the-marriage-of-true-minds)." Poetry Foundation.
-*    Vendler, Helen. _The Art of Shakespeare's Sonnets_. Harvard University Press, 1999, pp. 113-115. ISBN: 9780674637122. \[Preview with [Google Books](https://books.google.com/books?id=TlCaxUoazrgC&lpg=PP1&pg=PA115#v=onepage&q&f=false).\]
+*   William Shakespeare, "{{% resource_link "c846f1f8-4b59-4ddc-b3bd-933da2283511" "Sonnet 116" %}}." Poetry Foundation.
+*    Vendler, Helen. _The Art of Shakespeare's Sonnets_. Harvard University Press, 1999, pp. 113-115. ISBN: 9780674637122. \[Preview with {{% resource_link "1cd0772c-f54e-4d7c-8156-654aecd3dd2c" "Google Books" %}}.\]
 
 Read the sonnet (multiple times) and Vendler's analysis. Come with questions.
 
@@ -44,10 +44,10 @@ _Assignment:_ {{% resource_link 38928765-d597-4872-a407-7c5c187768e8 "Etymologie
 Session 5: Language as System(s)
 --------------------------------
 
-*   Dizikes, Peter. "[From Contemporary Syntax to Human Language's Deep Origins](http://news.mit.edu/2014/human-language-deep-origins-0611)." _MIT News Office_. June 11, 2014.
-*   Dizikes, Peter. "[The Writing on the Wall](http://news.mit.edu/2018/humans-speak-through-cave-art-0221)." _MIT News Office_. February 21, 2018.
-*   Sun, Jessica. "[Where Did Language Come From?](https://www.youtube.com/watch?v=BKw64R0r1BU&feature=youtu.be)" Feb. 4, 2018. YouTube.
-*   Miyagawa, Shigeru, Robert Berwick, and Kazou Okanoya. "[Emergence of Structure](https://dspace.mit.edu/handle/1721.1/78592)." Frontiers Research Foundation, 2013.
+*   Dizikes, Peter. "{{% resource_link "b4eead7b-e2bc-40e9-830b-f5f98e988b1a" "From Contemporary Syntax to Human Language's Deep Origins" %}}." _MIT News Office_. June 11, 2014.
+*   Dizikes, Peter. "{{% resource_link "144704bb-3f85-488f-a1b3-ba2c87d21ead" "The Writing on the Wall" %}}." _MIT News Office_. February 21, 2018.
+*   Sun, Jessica. "{{% resource_link "2d0146b5-83f0-4565-a4e4-d7a758bd018a" "Where Did Language Come From?" %}}" Feb. 4, 2018. YouTube.
+*   Miyagawa, Shigeru, Robert Berwick, and Kazou Okanoya. "{{% resource_link "7783b55d-2324-4448-a29b-abd49cbac269" "Emergence of Structure" %}}." Frontiers Research Foundation, 2013.
 
 Read enough to get an idea about Miyagawa's two major research projects.
 
@@ -69,13 +69,13 @@ _Assignment_: {{% resource_link c24f2ade-38b3-66cf-be77-874a69570469 "Informal E
 Session 7: Reading Line Breaks
 ------------------------------
 
-*   Wordsworth, William. "[A Slumber did my Spirit Seal](https://www.poetryfoundation.org/poems/45553/a-slumber-did-my-spirit-seal)." Poetry Foundation.
-*   Brooks, Gwendolyn. "[We Real Cool](https://www.poets.org/poetsorg/poem/we-real-cool)." In _The Bean Eaters_. Literary Licensing, 2012. ISBN: 9781259274481. 
-*   Williams, William Carlos. "[The Red Wheelbarrow](https://www.poets.org/poetsorg/poem/red-wheelbarrow)." In _The Collected Poems of William Carlos Williams: Volume I, 1909-1939_. New Directions Publishing Corporation, 1991. ISBN: 9780811211871. 
-*   Williams, William Carlos. "[Poem ("As the Cat")](https://www.poetryfoundation.org/poetrymagazine/browse?volume=36&issue=4&page=22)." _Poetry_. July, 1930.
-*   Schussler, Jennifer. "[The Forgotten Man Behind William Carlos William's 'Red Wheelbarrow'.](https://www.nytimes.com/2015/07/07/books/the-secret-of-william-carlos-williamss-the-red-wheelbarrow.html)" _New York Times_. July 6, 2015.
-*   Eliot, T.S. "[The Love Song of J. Alfred Prufrock](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock)." In _Collected Poems 1909-1962_ Harcourt Brace Jovanovich, 1991. ISBN: 9780151189786.
-*    Eliot, T.S. "[Reflections on Vers Libre](http://tseliot.com/prose/reflections-on-vers-libre)." In _Selected Prose of T.S. Eliot_ Edited by Frank Kermose. Harvest Books, 1975. ISBN: 9780156806541. 
+*   Wordsworth, William. "{{% resource_link "8592e190-cb62-4db7-8767-2f5829bb917e" "A Slumber did my Spirit Seal" %}}." Poetry Foundation.
+*   Brooks, Gwendolyn. "{{% resource_link "06db0649-7d11-405f-b592-c5caf3d317b0" "We Real Cool" %}}." In _The Bean Eaters_. Literary Licensing, 2012. ISBN: 9781259274481. 
+*   Williams, William Carlos. "{{% resource_link "f3201e12-8fc6-408f-8207-f78b8e3635eb" "The Red Wheelbarrow" %}}." In _The Collected Poems of William Carlos Williams: Volume I, 1909-1939_. New Directions Publishing Corporation, 1991. ISBN: 9780811211871. 
+*   Williams, William Carlos. "{{% resource_link "bc9b5462-5085-4ae4-827f-81dfef326636" "Poem (\"As the Cat\")" %}}." _Poetry_. July, 1930.
+*   Schussler, Jennifer. "{{% resource_link "96e8bf91-1fb3-4139-92d7-07a085970e1d" "The Forgotten Man Behind William Carlos William's 'Red Wheelbarrow'." %}}" _New York Times_. July 6, 2015.
+*   Eliot, T.S. "{{% resource_link "875d28d2-67e8-414d-8def-5673248eea9f" "The Love Song of J. Alfred Prufrock" %}}." In _Collected Poems 1909-1962_ Harcourt Brace Jovanovich, 1991. ISBN: 9780151189786.
+*    Eliot, T.S. "{{% resource_link "a93c1022-96d8-4121-8bae-e82ccea21942" "Reflections on Vers Libre" %}}." In _Selected Prose of T.S. Eliot_ Edited by Frank Kermose. Harvest Books, 1975. ISBN: 9780156806541. 
 
 This week, the poems are mostly short and very spare, so that we can really bear down on the phenomenon of what it does to end a line (but not a sentence). Consider this: line breaks affect the rate at which information is delivered. Sometimes (as in the Wordsworth poem) they seem to contain their own information.
 
@@ -104,8 +104,8 @@ Session 9: New Work in Computer-Generated Poetry
 Rather than ask that they read particular section or sections of The Truelist, I'd like to have each person in the class engage with several aspects of the project:
 
 *   The printed book (they don't have to buy it, but read some from it, see the material artifact).
-*   [The program that generated the book-length poem](http://nickm.com/code/truelist.py).
-*   [My complete studio recording of the book](http://writing.upenn.edu/pennsound/x/Montfort.php#Truelist-17).
+*   {{% resource_link "fcd30a40-9b1a-497a-bb8a-746263cbe6e0" "The program that generated the book-length poem" %}}.
+*   {{% resource_link "9d8a97ae-a70c-4f31-9e4d-8fc7d66da75c" "My complete studio recording of the book" %}}.
 
 If people want to read it all, of course, or read a few sections, that's great.
 
@@ -116,7 +116,7 @@ Take a look at the {{% resource_link d981a9aa-122e-4c26-f7d4-8449d1433d35 "class
 
 You know most of the drill (poems, poets, annotate). In a previous session, we looked at poems characterized by end-rhymes organized in predictable patterns. Today, we're going to broaden the optic on repeated sounds. I would like you to look hard at either assonance and consonance (repeated vowel or consonant sounds) in the sonnet, or track the pattern of rhyming sounds especially but not exclusively at the end of lines in Herbert. It might be useful to know that Herbert was a clergyman (that is, he would have worn a collar, which becomes a sign of both the religious vocation and its demands for certain kinds of personal sacrifices). "Collar" is also a homonym of (sounds identical to) "choler," an older word for "anger," and this other word invoked by sound is also relevant.
 
-Andrew Marvell was a contemporary of Milton's; this short poem is among a number by this poet written in the persona of a mower (that is, a laborer who cut grass)—for reasons again having to do with poetic traditions of writing in the voice of "simple people" who worked with the natural world. Sylvia Plath is the only 20th poet in the reading. Coincidentally, the New York Times published an obituary for her today, part of a project to redress important and systemic omissions in their record. The bio on Poetry Foundation is probably more relevant for us, but here is the [extended NYT piece](https://nyti.ms/2G6cPnh) if it interests you. 
+Andrew Marvell was a contemporary of Milton's; this short poem is among a number by this poet written in the persona of a mower (that is, a laborer who cut grass)—for reasons again having to do with poetic traditions of writing in the voice of "simple people" who worked with the natural world. Sylvia Plath is the only 20th poet in the reading. Coincidentally, the New York Times published an obituary for her today, part of a project to redress important and systemic omissions in their record. The bio on Poetry Foundation is probably more relevant for us, but here is the {{% resource_link "32c6eda6-8d91-4ad4-bfdf-6a25a22c5c85" "extended NYT piece" %}} if it interests you. 
 
 _Assignment:_ {{% resource_link d9251c7b-e2ac-ff1b-5025-0c03d45b0c56 "Poetry Analysis III" %}}
 
@@ -155,11 +155,11 @@ Session 14: Guest Lecture: Tyehimba Jess
 ----------------------------------------
 
 *    Jess, Tyehimba. _Olio_. Wave Books, 2016. pp. 12-29. ISBN: 9781940696201.
-*   DuBois, W.E.B. "[Of Spiritual Strivings of the Negro People](http://www.gutenberg.org/ebooks/408)." Chapter 1, of _Souls of Black Folk_.  CreateSpace, 2017. ISBN: 9781505223378.
+*   DuBois, W.E.B. "{{% resource_link "07d99670-a835-4ded-aa7b-f1e01023d1cb" "Of Spiritual Strivings of the Negro People" %}}." Chapter 1, of _Souls of Black Folk_.  CreateSpace, 2017. ISBN: 9781505223378.
 
 A few weeks ago, we looked briefly at a corona of sonnets from Olio, written in the voice of the Fiske Jubilee Singers. These are distributed throughout the book, and they serve as punctuation between its sections. Each of these sonnets appears on a page with banners above and below listing the names of black churches where violence occurred, with a date.
 
-Now we'll read two extended sections from Olio, each centered on the historical figure of a particular musician: Thomas Wiggins, a blind pianist who performed while in slavery, and Sissieretta Jones, a soprano whose career took off in the early twentieth century. (Both are in Olio's character list, and you can discover more at [BlackPast](http://www.blackpast.org/).) As you may suspect from reading these two sections as well as the "Double Shovel," each section of the book does something a little (or a lot) different with form, even while following the career of a historical person.
+Now we'll read two extended sections from Olio, each centered on the historical figure of a particular musician: Thomas Wiggins, a blind pianist who performed while in slavery, and Sissieretta Jones, a soprano whose career took off in the early twentieth century. (Both are in Olio's character list, and you can discover more at {{% resource_link "2f9c5c83-5429-47db-98fb-4039caf56085" "BlackPast" %}}.) As you may suspect from reading these two sections as well as the "Double Shovel," each section of the book does something a little (or a lot) different with form, even while following the career of a historical person.
 
 You'll see poems in two voices, poems connected to each other by first and last lines, sonnets, free verse, transcripts of archival documents, and prose poems (that may not be an exhaustive list!). But Olio has some unifying interests across this virtuoso display of formal mastery. One is the set of ideas linking masking, persona, double-consciousness, double voices that you've seen in "Double Shovel" (and will also see in the two sections for today). Another is the set of ideas associated with freedom and constraint or bondage, as historical facts, artistic choices, imaginative experiences. Like many poets before him, Jess is interested in the conditions of making art, something that never happens in a vacuum. Music—the literal subject of this book—has since ancient times been a metonymy for poetry. So we are reading both a poetic documentary about history and a meditation on how to have, find, and use an authentic voice. Let's use this class to identify some questions to ask the poet on Friday.
 
