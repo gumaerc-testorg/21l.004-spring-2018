@@ -16,7 +16,7 @@ Readings
 
  Jess, Tyehimba. _Olio_. Wave Books, 2016. pp. 12–29. ISBN: 9781940696201.
 
-DuBois, W.E.B. "{{% resource_link "07d99670-a835-4ded-aa7b-f1e01023d1cb" "Of Spiritual Strivings of the Negro People" %}}." Chapter 1, of _Souls of Black Folk_.  CreateSpace, 2017. ISBN: 9781505223378.
+DuBois, W.E.B. "[Of Spiritual Strivings of the Negro People](http://www.gutenberg.org/ebooks/408)." Chapter 1, of _Souls of Black Folk_.  CreateSpace, 2017. ISBN: 9781505223378.
 
 Things to mark as you read:
 ---------------------------

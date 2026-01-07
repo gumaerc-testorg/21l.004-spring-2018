@@ -14,15 +14,15 @@ uid: a17e8418-5cdd-3093-ff8b-23adcf67ff72
 Readings
 --------
 
-Shakespeare, William. "{{% resource_link "a15d3ea7-a746-4062-b016-ce43576ddeb7" "Sonnet 18" %}}", "{{% resource_link "5b24a73e-a966-4add-8c97-2ed84fa70208" "Sonnet 60" %}}", "{{% resource_link "8c17349a-dc8c-4a1c-a4d7-f37a1c0d8246" "Sonnet 65" %}}." Poetry Foundation.
+Shakespeare, William. "[Sonnet 18](https://www.poetryfoundation.org/poems/45087/sonnet-18-shall-i-compare-thee-to-a-summers-day)", "[Sonnet 60](https://www.poetryfoundation.org/poems/45095/sonnet-60-like-as-the-waves-make-towards-the-pebbld-shore)", "[Sonnet 65](https://www.poetryfoundation.org/poems/50646/sonnet-65-since-brass-nor-stone-nor-earth-nor-boundless-sea)." Poetry Foundation.
 
-Spenser, Edmund. "{{% resource_link "b58cae3f-6afd-4b59-9fba-77df7001616b" "Amoretti LXXV" %}}", "{{% resource_link "d3e9d894-9166-43a8-bd5f-7b891b4a78f6" "Amoretti LXXXI" %}}." Poetry Foundation.
+Spenser, Edmund. "[Amoretti LXXV](https://www.poetryfoundation.org/poems/45189/amoretti-lxxv-one-day-i-wrote-her-name)", "[Amoretti LXXXI](https://www.poetryfoundation.org/poems/50057/amoretti-lxxxi-fayre-is-my-love-when-her-fayre-golden-heares)." Poetry Foundation.
 
-Sidney, Philip. "{{% resource_link "0628fc1c-83b7-44c1-b183-b0a51c6f47a6" "Astrophil and Stella 1" %}}", "{{% resource_link "79104e2d-180d-45e1-8d6c-0327fbc14065" "Astrophil and Stella 31" %}}." Poetry Foundation.
+Sidney, Philip. "[Astrophil and Stella 1](https://www.poetryfoundation.org/poems/45152/astrophil-and-stella-1-loving-in-truth-and-fain-in-verse-my-love-to-show)", "[Astrophil and Stella 31](https://www.poetryfoundation.org/poems/45158/astrophil-and-stella-31-with-how-sad-steps-o-moon-thou-climbst-the-skies)." Poetry Foundation.
 
-Brooks, Gwendolyn. "{{% resource_link "f052a3b5-4b22-4849-bc97-f9162d6bd5b4" "my dreams, my works, must wait till after hell" %}}." In _Selected Poems_. Harper & Row, 1963.
+Brooks, Gwendolyn. "[my dreams, my works, must wait till after hell](https://www.poetryfoundation.org/poems/43315/my-dreams-my-works-must-wait-till-after-hell)." In _Selected Poems_. Harper & Row, 1963.
 
-Brooks, Gwendolyn. "{{% resource_link "3609c8df-66eb-4b44-ad5f-7f7c7a7938bb" "the rites for Cousin Vit" %}}." In _The Norton Anthology of Poetry Fifth Edition_. W.W. Norton and Company, 2005.
+Brooks, Gwendolyn. "[the rites for Cousin Vit](https://www.poetryfoundation.org/poems/51983/the-rites-for-cousin-vit)." In _The Norton Anthology of Poetry Fifth Edition_. W.W. Norton and Company, 2005.
 
 Reading Exercises
 -----------------

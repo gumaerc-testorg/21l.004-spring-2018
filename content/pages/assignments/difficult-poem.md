@@ -16,7 +16,7 @@ Reading
 
 Read T.S. Eliot's "The Waste Land." We have linked to a hypertext edition of the text that comes with notes.
 
-Eliot, T.S. _{{% resource_link "3a673986-9776-4f49-97ea-a7bd65c09be0" "The Waste Land" %}}_. W.W. Norton & Company, 2000. ISBN: 9780393974997.
+Eliot, T.S. _[The Waste Land](http://eliotswasteland.tripod.com/)_. W.W. Norton & Company, 2000. ISBN: 9780393974997.
 
 Group Project and Essay
 -----------------------
